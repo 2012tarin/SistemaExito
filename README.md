@@ -64,7 +64,35 @@ exito
 **Tarín Alejandra Valencia Córdoba**
 
 Aprendiz del programa **Análisis y Desarrollo de Software**  
+
+
 SENA – Centro de Formación Valledupar
+
+## Capturas del sistema
+
+### Login
+
+![Login](images/login.png)
+
+### Menú Principal
+
+![Menú Principal](images/menu.png)
+
+### Categorías
+
+![Categorías](images/categorias.png)
+
+### Clientes
+
+![Clientes](images/clientes.png)
+
+### Productos
+
+![Productos](images/productos.png)
+
+### Ventas
+
+![Ventas](images/ventas.png)
 
 ## Estado del proyecto
 
